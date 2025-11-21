@@ -1,0 +1,1 @@
+This will only work if the whole number part of the float can fit into an int. If it is larger then this will not work

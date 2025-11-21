@@ -1,0 +1,3 @@
+int gets promoted to a float 
+i (as a float) adds to f a float
+the result gets converted to a double to match d 

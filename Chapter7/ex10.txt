@@ -1,0 +1,2 @@
+unsigned int because int promotes to unsigned int and the (int) cast 
+only applies to j
