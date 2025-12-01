@@ -1,0 +1,7 @@
+a) 8 is the highest number that prints correctly with unsigned short
+b) 12 for unsigned int
+c) 20 for unsigned long
+d) 20 for unsigned long long
+e) 34 for float
+f) 170 for double
+g) 1754 for long double 
