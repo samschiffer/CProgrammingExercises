@@ -1,0 +1,1 @@
+To use a digit character as an array subscript/index you would need to subtract the digit '0' from the digit used as the input.

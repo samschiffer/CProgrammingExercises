@@ -1,0 +1,3 @@
+Using sizeof(t) is considered inferior because if you change the type of the array you would also need to change the type t in your statement. 
+
+Also, you can not easily check for correctness. Someone reading your code would need to look for the declaration of the array a to make sure it matches the type t listed.
